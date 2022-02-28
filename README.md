@@ -1,2 +1,11 @@
 # SDLSprintReview
 A Sprint Review and Retrospective created for CS250 at SNHU.
+
+## How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+When communicating with a customer or future user of a program, I must ensure that I keep track of all interactions and requests and ask clarifying questions if I have any doubt as to what a user is requesting. By taking the feature requests of a user, and the problems they wish to solve and/or avoid, I can develop a user story that will help me clearly communicate what the user is requesting to the development team and/or testers. A good user story can be read days, weeks, or even months later and still be understood.
+
+## How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+Developing programs is an ever-evolving process that, depending on numerous factors, will change. A process that has been proven effective that I will incorporate into my future work is a Scrum attitude. To be able to develop a program based on a user request, followed by an extensive testing by myself or another party to ensure that the code is strong before completing a sprint. I will also take a modular approach, should the program demand it, so the code base does not require as much re-writing if a change is needed. This compartmentalizes the change to a more narrow view, so a change does not affect a large portion of the programs I develop.
+
+## What does it mean to be a good team member in software development?
+To be a good member in software development requires 4 things: diligence, a constant strive for innovation, the ability to listen, and the ability to communicate. Through diligence, I can ensure that my quality of work is always high. Through my strive for innovation, I can always be searching for ways to improve an existing process to enable a stronger future. Through my ability to listen, I can ensure that I am creating what the user/customer wants. It is easy to create what I want, but developing what someone else wants can be challenging when I would do it differently. And finally, my ability to communicate will act as an invaluable tool when I need to keep in sync with other developers on the same project.
